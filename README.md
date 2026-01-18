@@ -3,7 +3,7 @@
 **Live Streaming Platform** is a real-time video streaming web application built using **React** and **ZegoCloud SDK**.  
 Users can create or join live rooms instantly using a unique Room ID and interact in real time.
 
-🌐 **Live Demo:** https://resonant-sunflower-4c21c7.netlify.app
+🌐 **Live Demo:** https://meet-sphere-4c21c7.netlify.app
 
 ---
 
