@@ -5,7 +5,7 @@ import { ZegoUIKitPrebuilt } from '@zegocloud/zego-uikit-prebuilt';
 
 const Room = () => {
   
-  let{roomId}=useParams()           //.... We can access the roomId variable that we have created in the home page by useParams() which is the feature of router dom
+  let{roomId}=useParams()           //.... We can access the roomId variable that we have created in the App.jsx  by useParams() which is the feature of router dom
 
 
   //Copied from zegocloud to generate the random id.
