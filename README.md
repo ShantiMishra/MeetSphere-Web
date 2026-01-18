@@ -1,16 +1,40 @@
-# React + Vite
+# 🎥 Live Streaming Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Streaming Platform** is a real-time video streaming web application built using **React** and **ZegoCloud SDK**.  
+Users can create or join live rooms instantly using a unique Room ID and interact in real time.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://resonant-sunflower-4c21c7.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Create & Join Live Rooms using Room ID  
+- ✅ Real-time video & audio streaming  
+- ✅ Interactive UI with smooth user experience  
+- ✅ Share meeting link with others    
+- ✅ Fast performance powered by ZegoCloud SDK
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Routing:** React Router DOM  
+- **Real-time Streaming:** ZegoCloud SDK  
+- **Deployment:** Netlify
+
+---
+
+## 🔑 ZegoCloud Integration
+
+This project uses **ZegoCloud UIKit Prebuilt SDK** to handle:
+
+- Video/Audio streaming  
+- Room creation & joining  
+- Live interaction  
+- Shareable meeting links
+
+
+
+
